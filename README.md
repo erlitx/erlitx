@@ -51,6 +51,6 @@
 
 ## 🎨 Проекты
 
-### 📝 **[Телеграм-сервер]([https://github.com/your_username/task-manager](https://github.com/erlitx/fastapi_telegram_client.git))**  
+### 📝 **[Телеграм-сервер][https://github.com/your_username/task-manager](https://github.com/erlitx/fastapi_telegram_client.git)**  
 Это простой микросервис, который может слушать сообщения из Telegram, принимать POST-запросы от Odoo и отправлять RPC-запросы в него.
 **Технологии:** `Python`, `Fast-Api`, `Docker` 

@@ -3,7 +3,7 @@
 **Желаемая должность:** Data Engineer / GO Developer
 📬 **Контактные данные:**  
 
-[Email](mailto:erlit007@gmail.com) | [Telegram](https://t.me/erlitx) | [LinkedIn](https://www.linkedin.com/in/belogortsev-mihail-a17771124/) 
+[Email](mailto:erlit007@gmail.com) | [Telegram](https://t.me/erlitxx) | [LinkedIn](https://www.linkedin.com/in/belogortsev-mihail-a17771124/) 
 
 ---
 
